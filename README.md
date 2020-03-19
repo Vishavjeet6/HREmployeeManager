@@ -8,3 +8,6 @@ Following functionalities are expected
 2) Employee listing
 3) Edit an employee details
 
+![Image description](images/1.jpg)
+![Image description](images/2.jpg)
+![Image description](images/3.jpg)
